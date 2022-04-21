@@ -8,7 +8,7 @@ textarea {
 body {
     font-family: 'Montserrat', sans-serif;
     height: 100%;
-    background-image: url('/img/o-pequeno-principe.jpg');
+    background-image: url('../img/o-pequeno-principe.jpg');
     background-position: inherit;
     background-repeat: no-repeat;
     background-size: cover;
